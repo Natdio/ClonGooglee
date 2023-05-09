@@ -3,7 +3,13 @@
 ## INDICE 
 
 *[1.Intro ] (#)
-*[2. Que Construi  ]
+
+*[2. Que Construi  
+
 *[3.Objetivo Proyecto ]
+
+****
+## 1. Intro 
+
 
 
