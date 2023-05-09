@@ -1,4 +1,4 @@
-# Clonacion de la interfaz de Googlee creado con HTML5 y CSS en el bootcamp de Tecnolochicas PRO. 
+ #💖 Clonacion de la interfaz de Googlee creado con HTML5 y CSS en el bootcamp de Tecnolochicas PRO. 
 
 ## INDICE 
 * [1. Intro](#)
@@ -21,4 +21,6 @@ Contoene las siguientes secciones :
 
 * **Footer** Seccion incluye hipervinculos a el final de la pagina. 
 
+## 3. Objetivo del proyecto 
 
+Aprender a utlizar las etiquetas de HTML5 y las etiquetas de CSS3.
