@@ -2,7 +2,7 @@
 
 ## INDICE 
 * [1. Intro](https://github.com/Natdio/ClonGooglee/blob/main/README.md#) 
-* [2. Qué construí](#)
+* [2. Qué construí](https://github.com/Natdio/ClonGooglee/blob/main/README.md#)
 * [3. Objetivo del proyecto](#)
 
 
