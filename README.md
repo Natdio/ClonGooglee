@@ -1,8 +1,8 @@
  #💖 Clonacion de la interfaz de Googlee creado con HTML5 y CSS en el bootcamp de Tecnolochicas PRO. 
 
 ## INDICE 
-* [1. Intro](https://github.com/Natdio/ClonGooglee/blob/main/README.md#) 
-* [2. Qué construí](https://github.com/Natdio/ClonGooglee/blob/main/README.md#)
+* [1. Intro]() 
+* [2. Qué construí](https://github.com/Natdio/ClonGooglee/blob/main/README.md#2-que-construi)
 * [3. Objetivo del proyecto](https://github.com/Natdio/ClonGooglee/blob/main/README.md#)
 
 
